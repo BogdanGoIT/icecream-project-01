@@ -3,10 +3,10 @@
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://BogdanGoIT.github.io/icecream-project",
+  "homepage": "https://BogdanGoIT.github.io/icecream-project-01",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /icecream-project/"
+    "build": "parcel build src/*.html --public-url /icecream-project-01/"
   },
   "repository": {
     "type": "git",
